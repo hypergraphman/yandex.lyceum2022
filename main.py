@@ -3,6 +3,10 @@ def my_superfunction():
     print('What an awesome print!')
 
 
+def new_function():
+    pass
+
+
 def main():
     print('My first git program')
     print('And I change it every day')
