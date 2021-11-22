@@ -10,5 +10,6 @@ def main():
     my_superfunction()
     print('новый код')
 
+
 if __name__ == '__main__':
     main()
