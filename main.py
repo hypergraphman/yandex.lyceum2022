@@ -1,5 +1,10 @@
+# Aitov Ruslan
 def my_superfunction():
     print('Yandexlyceum')
+
+
+def new_function():
+    pass
 
 
 def main():
